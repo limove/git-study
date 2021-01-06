@@ -1,5 +1,1 @@
-123
-asd
-zxc
-qwe
-====
+clear all
