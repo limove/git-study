@@ -1,3 +1,1 @@
-asdf
-1234
-====
+clear all
